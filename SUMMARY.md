@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Enterprise Architecture](enterprise-architecture.md)
+* [Solution Architecture](solution-architecture.md)
+* [Technical Architecture](technical-architecture.md)
 
 ## Layers
 
