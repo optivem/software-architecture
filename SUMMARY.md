@@ -15,3 +15,7 @@
 * [Test Layer](layers/test-layer.md)
 * [Dependency Injection](layers/dependency-injection.md)
 
+---
+
+* [License](license.md)
+
