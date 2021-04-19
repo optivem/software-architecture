@@ -5,6 +5,7 @@
 * [Solution Architecture](solution-architecture.md)
 * [Technical Architecture](technical-architecture.md)
 * [References](references.md)
+* [License](license.md)
 
 ## Layers
 
@@ -14,8 +15,4 @@
 * [Presentation Layer](layers/presentation-layer.md)
 * [Test Layer](layers/test-layer.md)
 * [Dependency Injection](layers/dependency-injection.md)
-
----
-
-* [License](license.md)
 
