@@ -4,6 +4,7 @@
 * [Enterprise Architecture](enterprise-architecture.md)
 * [Solution Architecture](solution-architecture.md)
 * [Technical Architecture](technical-architecture.md)
+* [References](references.md)
 
 ## Layers
 
