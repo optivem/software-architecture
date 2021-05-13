@@ -1,11 +1,6 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Enterprise Architecture](enterprise-architecture.md)
-* [Solution Architecture](solution-architecture.md)
-* [Technical Architecture](technical-architecture.md)
-* [References](references.md)
-* [License](license.md)
 
 ## Layers
 
@@ -15,4 +10,5 @@
 * [Presentation Layer](layers/presentation-layer.md)
 * [Test Layer](layers/test-layer.md)
 * [Dependency Injection](layers/dependency-injection.md)
+* [References](layers/references.md)
 
